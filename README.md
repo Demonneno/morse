@@ -33,7 +33,7 @@ For example usage:
 ```
 
 ## Dependencies
-Current version of '<Morse>' does not have any dependencies.
+Current version of `<Morse>` does not have any dependencies.
 
 See `pyproject.toml` for the full list of dependencies.
 
