@@ -7,6 +7,7 @@ This project contains the `<Morse>` module, a Python application/library for enc
 
 ### Prerequisites
 - Python 3.8 or higher
+- Astral uv
 
 ### Steps
 1. Clone the repository:
@@ -35,9 +36,12 @@ For example usage:
 ## Dependencies
 Current version of `<Morse>` does not have any dependencies.
 
+Optional for testing: `pytest`.
+
 See `pyproject.toml` for the full list of dependencies.
 
 ## Running Tests
+This is optional and requires updating `uv`. See 'Dependencies' for more information.
 To run tests with `pytest`:
 ```bash
 uv run pytest
