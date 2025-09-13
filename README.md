@@ -58,4 +58,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For questions, contact Neno at <demonneno1@gmail.com> or open an issue on GitHub.
->>>>>>> 83b852e (Initializing project)
