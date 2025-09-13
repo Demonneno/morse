@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# morse
-Morse encoder and decoder
-=======
-
 # <subfolder> Morse code
 
 ## Overview
