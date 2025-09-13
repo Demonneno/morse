@@ -12,14 +12,14 @@ This project contains the `<Morse>` module, a Python application/library for enc
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/user/public-subfolder-repo.git
-   cd subfolder-repo
+   git clone https://github.com/Demonneno/morse.git
+   cd morse
    ```
 
 ## Usage
 To run the main script (e.g., `main.py`):
 ```bash
-python main.py
+uv run main.py
 ```
 
 For example usage:
