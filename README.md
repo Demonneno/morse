@@ -33,9 +33,7 @@ For example usage:
 ```
 
 ## Dependencies
-- `requests`: For making HTTP requests.
-- Development dependencies:
-  - `pytest`: For running tests.
+Current version of '<Morse>' does not have any dependencies.
 
 See `pyproject.toml` for the full list of dependencies.
 
